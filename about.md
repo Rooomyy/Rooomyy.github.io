@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: About
-permalink: /about/
+title: Galerie
+permalink: /Gallery/
 ---
 ## Markdown
 
@@ -200,6 +200,6 @@ google_analytics: "UA-9999999-99" # Update with your own tracking ID
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/', text: 'Accueil' }
+  - { url: '/gallery', text: 'Galerie' }
 {% endhighlight %}
