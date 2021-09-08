@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Galerie
-permalink: /Gallery/
+permalink: /gallery/
 ---
 ## Markdown
 
