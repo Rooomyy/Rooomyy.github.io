@@ -4,7 +4,7 @@ title: Galerie
 permalink: /gallery/
 ---
 
-<img align="left" src="img/gallery/fat_monkey.png">
+<img align="left" src="https://www.instagram.com/p/COSkCAnlP05/">
 
 <- Pretty big monkey
 
