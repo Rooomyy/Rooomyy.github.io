@@ -4,7 +4,7 @@ title: Galerie
 permalink: /gallery/
 ---
 
-![Branching]("https://www.instagram.com/p/COSkCAnlP05/")
+![Branching]("img/gallery/why_monkey.png")
 
 <- Pretty big monkey
 
